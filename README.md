@@ -34,3 +34,5 @@ Our results demonstrate that VGGT maintains strong 3D reconstruction and pose es
 ## Files
 - `Best_Subset_Sampling_using_DiNO.ipynb` : (main) Contains details of our work in optimal input subset selection
 - `VGGT_quantized.ipynb` : Contains our exploration of post-training quantization of VGGT
+- `view-3d-point-cloud.py` : Helper script to visualize 3D point clouds generated from VGGT using open3d
+-  `data\einstein_1\*.pt` : point cloud and image files, generated during 3D reconstruction of einstein_1 scene of ETH3D using first 30 frames, uniformly sampled 15 frames, and uniformly sampled 5 frames 
