@@ -31,3 +31,6 @@ Our results demonstrate that VGGT maintains strong 3D reconstruction and pose es
 - Comparative plots for ATE, trajectories, and point clouds  
 - Reproducible scripts requiring only a lightweight GPU  
 
+## Files
+- `Best_Subset_Sampling_using_DiNO.ipynb` : (main) Contains details of our work in optimal input subset selection
+- `VGGT_quantized.ipynb` : Contains our exploration of post-training quantization of VGGT
