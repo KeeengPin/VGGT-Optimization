@@ -24,8 +24,7 @@ Our results demonstrate that VGGT maintains strong 3D reconstruction and pose es
 
 ## Key Features
 - Evaluation on multi-view datasets with varying scene lengths  
-- Frame sampling using DINO feature embeddings  
-- Trajectory alignment via Umeyama transformation  
+- Frame sampling using DINO feature embeddings   
 - Absolute Trajectory Error (ATE) computation  
 - Comparative plots for ATE, trajectories, and point clouds  
 - Reproducible scripts requiring only a lightweight GPU  
