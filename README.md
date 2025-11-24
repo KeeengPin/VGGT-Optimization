@@ -4,9 +4,9 @@ This repository contains our course project for **EE 782: Advanced Topics in Mac
 The project studies how the Visual Geometry Grounded Transformer (VGGT) can be optimized for low-compute hardware by selecting a minimal yet informative subset of input frames.
 
 ## Team Members
-- **Abhijat Bharadwaj** – 223076006  
-- **Parth Bansal** – 223076011  
-- **Animesh Kumar** – 223076014  
+- **Abhijat Bharadwaj** – 21002002
+- **Parth Bansal** – 21d170028
+- **Animesh Kumar** – 21d070012
 - **Instructor:** Prof. Amit Sethi  
 
 ## Project Description
@@ -30,7 +30,3 @@ Our results demonstrate that VGGT maintains strong 3D reconstruction and pose es
 - Comparative plots for ATE, trajectories, and point clouds  
 - Reproducible scripts requiring only a lightweight GPU  
 
-## Running the Code
-Install dependencies and run frame selection:
-```bash
-python src/select_frames.py --method kcentre --num_frames 10
