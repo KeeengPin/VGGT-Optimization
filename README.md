@@ -1,3 +1,5 @@
+<img src="data\facade-10.png"></img>
+
 # Input Data–Oriented Optimization of VGGT for Low-Compute Devices
 
 This repository contains our course project for **EE 782: Advanced Topics in Machine Learning** at the **Department of Electrical Engineering, IIT Bombay**.  
