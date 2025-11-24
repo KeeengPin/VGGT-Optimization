@@ -4,7 +4,7 @@ This repository contains our course project for **EE 782: Advanced Topics in Mac
 The project studies how the Visual Geometry Grounded Transformer (VGGT) can be optimized for low-compute hardware by selecting a minimal yet informative subset of input frames.
 
 ## Team Members
-- **Abhijat Bharadwaj** – 21002002
+- **Abhijat Bharadwaj** – 210020002
 - **Parth Bansal** – 21d170028
 - **Animesh Kumar** – 21d070012
 - **Instructor:** Prof. Amit Sethi  
